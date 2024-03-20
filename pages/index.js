@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to  Hrdv Thoughts " />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          dev jobs  techstacks and latest news  <code>subbscribe to our blog page </code>
         </p>
       </main>
 
